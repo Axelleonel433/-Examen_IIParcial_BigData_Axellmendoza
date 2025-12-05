@@ -1,0 +1,4 @@
+Producto: Monitor
+Total de ventas del producto: 34,315.48
+Cantidad de registros: 13
+Precio Unitario promedio: 805.16

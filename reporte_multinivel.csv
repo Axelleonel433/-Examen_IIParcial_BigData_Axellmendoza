@@ -1,0 +1,39 @@
+Cliente,Producto,Ciudad,Categoria_Cliente,Suma_Total,Promedio_PrecioUnitario,Cantidad_Compras
+Marco Díaz,Laptop,Comayagua,Silver,8487.41,1379.345,2
+Marco Díaz,Teclado,Comayagua,Silver,4120.639999999999,453.78333333333336,3
+Marco Díaz,Mouse,Comayagua,Silver,3726.8900000000003,540.815,2
+Marco Díaz,Audífonos,Comayagua,Silver,2219.77,710.245,2
+Marco Díaz,Impresora,Comayagua,Silver,132.52,132.52,1
+José Molina,Monitor,Danlí,Regular,2571.1800000000003,429.15,2
+José Molina,Mouse,Danlí,Regular,2151.1800000000003,310.97,2
+José Molina,Audífonos,Danlí,Regular,1509.21,754.605,2
+José Molina,Impresora,Danlí,Regular,1264.83,1264.83,1
+Luis Mejía,Teclado,El Paraíso,Silver,3701.21,552.4,2
+Luis Mejía,Laptop,El Paraíso,Silver,2660.34,221.42666666666665,3
+Luis Mejía,Impresora,El Paraíso,Silver,1587.74,793.87,2
+Luis Mejía,Mouse,El Paraíso,Silver,1380.01,419.0833333333333,3
+Luis Mejía,Audífonos,El Paraíso,Silver,1375.65,1375.65,1
+Andrea Ramos,Teclado,Juticalpa,Regular,3917.4,652.9,2
+Andrea Ramos,Monitor,Juticalpa,Regular,2765.16,921.72,1
+Andrea Ramos,Mouse,Juticalpa,Regular,2635.44,1317.72,1
+Andrea Ramos,Laptop,Juticalpa,Regular,1224.24,1224.24,1
+Marta Suazo,Monitor,La Ceiba,Regular,9402.869999999999,1083.995,2
+Marta Suazo,Laptop,La Ceiba,Regular,6214.66,805.2633333333333,3
+Marta Suazo,Mouse,La Ceiba,Regular,3628.08,1209.36,1
+Marta Suazo,Impresora,La Ceiba,Regular,2620.79,678.69,3
+Carla Torres,Teclado,San Pedro Sula,Gold,9763.7,626.6225000000001,4
+Carla Torres,Monitor,San Pedro Sula,Gold,7172.18,1052.675,2
+Carla Torres,Impresora,San Pedro Sula,Gold,4862.08,1215.52,1
+Carla Torres,Audífonos,San Pedro Sula,Gold,3344.56,836.14,1
+Carla Torres,Laptop,San Pedro Sula,Gold,1748.92,874.46,2
+Carla Torres,Mouse,San Pedro Sula,Gold,1350.06,457.77,2
+Pedro Castillo,Monitor,Siguatepeque,Gold,11982.49,798.4300000000001,5
+Pedro Castillo,Laptop,Siguatepeque,Gold,9557.460000000001,854.1075000000001,4
+Pedro Castillo,Audífonos,Siguatepeque,Gold,6313.88,747.9900000000001,3
+Pedro Castillo,Impresora,Siguatepeque,Gold,5531.85,590.2233333333334,3
+Pedro Castillo,Mouse,Siguatepeque,Gold,4472.31,745.385,2
+Pedro Castillo,Teclado,Siguatepeque,Gold,2056.19,636.295,2
+Ana López,Audífonos,Tegucigalpa,Gold,5271.52,1317.88,1
+Ana López,Teclado,Tegucigalpa,Gold,5249.52,1312.38,1
+Ana López,Mouse,Tegucigalpa,Gold,2051.59,1025.795,2
+Ana López,Monitor,Tegucigalpa,Gold,421.6,421.6,1

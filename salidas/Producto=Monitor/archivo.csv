@@ -1,0 +1,14 @@
+Fecha,Cliente,Producto,Cantidad,PrecioUnitario,Total,Ciudad,Categoria_Cliente,Categoria_Producto,Impuesto
+2025-10-12,José Molina,Monitor,4,427.29,1709.16,Danlí,Regular,Electrónica,0.15
+2025-10-26,Pedro Castillo,Monitor,1,1210.07,1210.07,Siguatepeque,Gold,Electrónica,0.15
+2025-10-22,Pedro Castillo,Monitor,5,761.29,3806.45,Siguatepeque,Gold,Electrónica,0.15
+2025-10-31,Marta Suazo,Monitor,5,730.91,3654.55,La Ceiba,Regular,Electrónica,0.15
+2025-10-30,José Molina,Monitor,2,431.01,862.02,Danlí,Regular,Electrónica,0.15
+2025-10-17,Carla Torres,Monitor,4,1480.74,5922.96,San Pedro Sula,Gold,Electrónica,0.15
+2025-10-28,Pedro Castillo,Monitor,3,1095.03,3285.09,Siguatepeque,Gold,Electrónica,0.15
+2025-10-06,Pedro Castillo,Monitor,4,903.6,3614.4,Siguatepeque,Gold,Electrónica,0.15
+2025-10-13,Pedro Castillo,Monitor,3,22.16,66.48,Siguatepeque,Gold,Electrónica,0.15
+2025-10-26,Andrea Ramos,Monitor,3,921.72,2765.16,Juticalpa,Regular,Electrónica,0.15
+2025-10-20,Marta Suazo,Monitor,4,1437.08,5748.32,La Ceiba,Regular,Electrónica,0.15
+2025-10-02,Carla Torres,Monitor,2,624.61,1249.22,San Pedro Sula,Gold,Electrónica,0.15
+2025-10-16,Ana López,Monitor,1,421.6,421.6,Tegucigalpa,Gold,Electrónica,0.15

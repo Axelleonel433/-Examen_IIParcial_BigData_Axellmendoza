@@ -1,0 +1,4 @@
+Producto: Audífonos
+Total de ventas del producto: 20,034.59
+Cantidad de registros: 10
+Precio Unitario promedio: 870.33

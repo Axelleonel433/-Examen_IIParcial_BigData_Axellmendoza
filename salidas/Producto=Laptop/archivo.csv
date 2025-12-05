@@ -1,0 +1,16 @@
+Fecha,Cliente,Producto,Cantidad,PrecioUnitario,Total,Ciudad,Categoria_Cliente,Categoria_Producto,Impuesto
+2025-10-14,Carla Torres,Laptop,1,1290.99,1290.99,San Pedro Sula,Gold,Electrónica,0.15
+2025-10-09,Luis Mejía,Laptop,4,445.06,1780.24,El Paraíso,Silver,Electrónica,0.15
+2025-10-04,Pedro Castillo,Laptop,4,1216.92,4867.68,Siguatepeque,Gold,Electrónica,0.15
+2025-10-11,Marta Suazo,Laptop,4,1266.29,5065.16,La Ceiba,Regular,Electrónica,0.15
+2025-10-12,Pedro Castillo,Laptop,3,137.04,411.12,Siguatepeque,Gold,Electrónica,0.15
+2025-10-03,Andrea Ramos,Laptop,1,1224.24,1224.24,Juticalpa,Regular,Electrónica,0.15
+2025-10-11,Carla Torres,Laptop,1,457.93,457.93,San Pedro Sula,Gold,Electrónica,0.15
+2025-10-21,Luis Mejía,Laptop,3,108.0,324.0,El Paraíso,Silver,Electrónica,0.15
+2025-10-05,Pedro Castillo,Laptop,1,1323.74,1323.74,Siguatepeque,Gold,Electrónica,0.15
+2025-10-12,Luis Mejía,Laptop,5,111.22,556.1,El Paraíso,Silver,Electrónica,0.15
+2025-10-30,Pedro Castillo,Laptop,4,738.73,2954.92,Siguatepeque,Gold,Electrónica,0.15
+2025-10-22,Marta Suazo,Laptop,1,786.41,786.41,La Ceiba,Regular,Electrónica,0.15
+2025-10-15,Marco Díaz,Laptop,1,1326.51,1326.51,Comayagua,Silver,Electrónica,0.15
+2025-10-12,Marco Díaz,Laptop,5,1432.18,7160.9,Comayagua,Silver,Electrónica,0.15
+2025-10-15,Marta Suazo,Laptop,1,363.09,363.09,La Ceiba,Regular,Electrónica,0.15

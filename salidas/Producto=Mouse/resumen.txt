@@ -1,0 +1,4 @@
+Producto: Mouse
+Total de ventas del producto: 21,395.56
+Cantidad de registros: 15
+Precio Unitario promedio: 663.05

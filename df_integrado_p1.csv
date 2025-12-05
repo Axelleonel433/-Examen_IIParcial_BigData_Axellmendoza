@@ -1,0 +1,79 @@
+Fecha,Cliente,Producto,Cantidad,PrecioUnitario,Total,Ciudad,Categoria_Cliente,Categoria_Producto,Impuesto
+2025-10-30,José Molina,Mouse,3,336.58,1009.74,Danlí,Regular,Accesorios,0.1
+2025-10-14,Carla Torres,Laptop,1,1290.99,1290.99,San Pedro Sula,Gold,Electrónica,0.15
+2025-10-09,Luis Mejía,Laptop,4,445.06,1780.24,El Paraíso,Silver,Electrónica,0.15
+2025-10-27,Andrea Ramos,Mouse,2,1317.72,2635.44,Juticalpa,Regular,Accesorios,0.1
+2025-10-09,Marco Díaz,Audífonos,2,799.28,1598.56,Comayagua,Silver,Accesorios,0.1
+2025-10-12,Andrea Ramos,Teclado,3,965.85,2897.55,Juticalpa,Regular,Accesorios,0.1
+2025-10-09,Luis Mejía,Audífonos,1,1375.65,1375.65,El Paraíso,Silver,Accesorios,0.1
+2025-10-08,Pedro Castillo,Teclado,1,880.79,880.79,Siguatepeque,Gold,Accesorios,0.1
+2025-10-29,Ana López,Audífonos,4,1317.88,5271.52,Tegucigalpa,Gold,Accesorios,0.1
+2025-10-29,Marta Suazo,Mouse,3,1209.36,3628.08,La Ceiba,Regular,Accesorios,0.1
+2025-10-30,Marta Suazo,Impresora,1,475.15,475.15,La Ceiba,Regular,Oficina,0.12
+2025-10-01,Luis Mejía,Impresora,1,850.36,850.36,El Paraíso,Silver,Oficina,0.12
+2025-10-04,José Molina,Impresora,1,1264.83,1264.83,Danlí,Regular,Oficina,0.12
+2025-10-02,Marco Díaz,Teclado,3,77.61,232.83,Comayagua,Silver,Accesorios,0.1
+2025-10-13,Andrea Ramos,Teclado,3,339.95,1019.85,Juticalpa,Regular,Accesorios,0.1
+2025-10-12,José Molina,Monitor,4,427.29,1709.16,Danlí,Regular,Electrónica,0.15
+2025-10-12,Pedro Castillo,Mouse,3,490.08,1470.24,Siguatepeque,Gold,Accesorios,0.1
+2025-10-14,Ana López,Teclado,4,1312.38,5249.52,Tegucigalpa,Gold,Accesorios,0.1
+2025-10-01,Pedro Castillo,Impresora,1,599.79,599.79,Siguatepeque,Gold,Oficina,0.12
+2025-10-11,Carla Torres,Mouse,3,217.26,651.78,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-26,Pedro Castillo,Monitor,1,1210.07,1210.07,Siguatepeque,Gold,Electrónica,0.15
+2025-10-22,Pedro Castillo,Monitor,5,761.29,3806.45,Siguatepeque,Gold,Electrónica,0.15
+2025-10-08,Pedro Castillo,Mouse,3,1000.69,3002.07,Siguatepeque,Gold,Accesorios,0.1
+2025-10-04,Pedro Castillo,Laptop,4,1216.92,4867.68,Siguatepeque,Gold,Electrónica,0.15
+2025-10-12,Carla Torres,Impresora,4,1215.52,4862.08,San Pedro Sula,Gold,Oficina,0.12
+2025-10-23,Marta Suazo,Impresora,1,1268.56,1268.56,La Ceiba,Regular,Oficina,0.12
+2025-10-08,José Molina,Audífonos,1,420.1,420.1,Danlí,Regular,Accesorios,0.1
+2025-10-23,Luis Mejía,Teclado,4,386.81,1547.24,El Paraíso,Silver,Accesorios,0.1
+2025-10-31,Marta Suazo,Monitor,5,730.91,3654.55,La Ceiba,Regular,Electrónica,0.15
+2025-10-11,Marta Suazo,Laptop,4,1266.29,5065.16,La Ceiba,Regular,Electrónica,0.15
+2025-10-12,Pedro Castillo,Laptop,3,137.04,411.12,Siguatepeque,Gold,Electrónica,0.15
+2025-10-03,Andrea Ramos,Laptop,1,1224.24,1224.24,Juticalpa,Regular,Electrónica,0.15
+2025-10-13,Marco Díaz,Teclado,4,36.59,146.36,Comayagua,Silver,Accesorios,0.1
+2025-10-30,José Molina,Monitor,2,431.01,862.02,Danlí,Regular,Electrónica,0.15
+2025-10-17,Carla Torres,Monitor,4,1480.74,5922.96,San Pedro Sula,Gold,Electrónica,0.15
+2025-10-08,Marco Díaz,Audífonos,1,621.21,621.21,Comayagua,Silver,Accesorios,0.1
+2025-10-11,Carla Torres,Laptop,1,457.93,457.93,San Pedro Sula,Gold,Electrónica,0.15
+2025-10-10,Pedro Castillo,Audífonos,4,357.47,1429.88,Siguatepeque,Gold,Accesorios,0.1
+2025-10-23,Marta Suazo,Impresora,3,292.36,877.08,La Ceiba,Regular,Oficina,0.12
+2025-10-20,José Molina,Audífonos,1,1089.11,1089.11,Danlí,Regular,Accesorios,0.1
+2025-10-19,Pedro Castillo,Impresora,4,922.34,3689.36,Siguatepeque,Gold,Oficina,0.12
+2025-10-28,Pedro Castillo,Monitor,3,1095.03,3285.09,Siguatepeque,Gold,Electrónica,0.15
+2025-10-21,Luis Mejía,Mouse,3,61.38,184.14,El Paraíso,Silver,Accesorios,0.1
+2025-10-21,Luis Mejía,Laptop,3,108.0,324.0,El Paraíso,Silver,Electrónica,0.15
+2025-10-05,Pedro Castillo,Laptop,1,1323.74,1323.74,Siguatepeque,Gold,Electrónica,0.15
+2025-10-13,Pedro Castillo,Audífonos,3,1111.0,3333.0,Siguatepeque,Gold,Accesorios,0.1
+2025-10-06,Pedro Castillo,Monitor,4,903.6,3614.4,Siguatepeque,Gold,Electrónica,0.15
+2025-10-06,Carla Torres,Teclado,3,847.97,2543.91,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-13,Pedro Castillo,Monitor,3,22.16,66.48,Siguatepeque,Gold,Electrónica,0.15
+2025-10-03,Carla Torres,Audífonos,4,836.14,3344.56,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-12,Luis Mejía,Laptop,5,111.22,556.1,El Paraíso,Silver,Electrónica,0.15
+2025-10-30,Pedro Castillo,Laptop,4,738.73,2954.92,Siguatepeque,Gold,Electrónica,0.15
+2025-10-20,Luis Mejía,Impresora,1,737.38,737.38,El Paraíso,Silver,Oficina,0.12
+2025-10-07,Ana López,Mouse,1,708.31,708.31,Tegucigalpa,Gold,Accesorios,0.1
+2025-10-12,Carla Torres,Teclado,2,141.58,283.16,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-02,José Molina,Mouse,4,285.36,1141.44,Danlí,Regular,Accesorios,0.1
+2025-10-26,Andrea Ramos,Monitor,3,921.72,2765.16,Juticalpa,Regular,Electrónica,0.15
+2025-10-17,Carla Torres,Teclado,5,868.87,4344.35,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-21,Marco Díaz,Mouse,4,482.0,1928.0,Comayagua,Silver,Accesorios,0.1
+2025-10-22,Marta Suazo,Laptop,1,786.41,786.41,La Ceiba,Regular,Electrónica,0.15
+2025-10-15,Marco Díaz,Laptop,1,1326.51,1326.51,Comayagua,Silver,Electrónica,0.15
+2025-10-04,Marco Díaz,Impresora,1,132.52,132.52,Comayagua,Silver,Oficina,0.12
+2025-10-07,Marco Díaz,Teclado,3,1247.15,3741.45,Comayagua,Silver,Accesorios,0.1
+2025-10-14,Luis Mejía,Teclado,3,717.99,2153.97,El Paraíso,Silver,Accesorios,0.1
+2025-10-20,Pedro Castillo,Audífonos,2,775.5,1551.0,Siguatepeque,Gold,Accesorios,0.1
+2025-10-12,Marco Díaz,Laptop,5,1432.18,7160.9,Comayagua,Silver,Electrónica,0.15
+2025-10-23,Marco Díaz,Mouse,3,599.63,1798.89,Comayagua,Silver,Accesorios,0.1
+2025-10-24,Ana López,Mouse,1,1343.28,1343.28,Tegucigalpa,Gold,Accesorios,0.1
+2025-10-05,Pedro Castillo,Teclado,3,391.8,1175.4,Siguatepeque,Gold,Accesorios,0.1
+2025-10-22,Carla Torres,Teclado,4,648.07,2592.28,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-20,Marta Suazo,Monitor,4,1437.08,5748.32,La Ceiba,Regular,Electrónica,0.15
+2025-10-22,Pedro Castillo,Impresora,5,248.54,1242.7,Siguatepeque,Gold,Oficina,0.12
+2025-10-15,Marta Suazo,Laptop,1,363.09,363.09,La Ceiba,Regular,Electrónica,0.15
+2025-10-14,Luis Mejía,Mouse,1,246.35,246.35,El Paraíso,Silver,Accesorios,0.1
+2025-10-20,Carla Torres,Mouse,1,698.28,698.28,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-02,Carla Torres,Monitor,2,624.61,1249.22,San Pedro Sula,Gold,Electrónica,0.15
+2025-10-16,Ana López,Monitor,1,421.6,421.6,Tegucigalpa,Gold,Electrónica,0.15
+2025-10-05,Luis Mejía,Mouse,1,949.52,949.52,El Paraíso,Silver,Accesorios,0.1

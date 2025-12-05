@@ -1,0 +1,12 @@
+Fecha,Cliente,Producto,Cantidad,PrecioUnitario,Total,Ciudad,Categoria_Cliente,Categoria_Producto,Impuesto
+2025-10-30,Marta Suazo,Impresora,1,475.15,475.15,La Ceiba,Regular,Oficina,0.12
+2025-10-01,Luis Mejía,Impresora,1,850.36,850.36,El Paraíso,Silver,Oficina,0.12
+2025-10-04,José Molina,Impresora,1,1264.83,1264.83,Danlí,Regular,Oficina,0.12
+2025-10-01,Pedro Castillo,Impresora,1,599.79,599.79,Siguatepeque,Gold,Oficina,0.12
+2025-10-12,Carla Torres,Impresora,4,1215.52,4862.08,San Pedro Sula,Gold,Oficina,0.12
+2025-10-23,Marta Suazo,Impresora,1,1268.56,1268.56,La Ceiba,Regular,Oficina,0.12
+2025-10-23,Marta Suazo,Impresora,3,292.36,877.08,La Ceiba,Regular,Oficina,0.12
+2025-10-19,Pedro Castillo,Impresora,4,922.34,3689.36,Siguatepeque,Gold,Oficina,0.12
+2025-10-20,Luis Mejía,Impresora,1,737.38,737.38,El Paraíso,Silver,Oficina,0.12
+2025-10-04,Marco Díaz,Impresora,1,132.52,132.52,Comayagua,Silver,Oficina,0.12
+2025-10-22,Pedro Castillo,Impresora,5,248.54,1242.7,Siguatepeque,Gold,Oficina,0.12

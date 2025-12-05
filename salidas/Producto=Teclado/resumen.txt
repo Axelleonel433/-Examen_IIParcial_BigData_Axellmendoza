@@ -1,0 +1,4 @@
+Producto: Teclado
+Total de ventas del producto: 28,808.66
+Cantidad de registros: 14
+Precio Unitario promedio: 633.10

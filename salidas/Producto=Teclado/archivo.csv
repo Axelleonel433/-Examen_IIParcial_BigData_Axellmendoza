@@ -1,0 +1,15 @@
+Fecha,Cliente,Producto,Cantidad,PrecioUnitario,Total,Ciudad,Categoria_Cliente,Categoria_Producto,Impuesto
+2025-10-12,Andrea Ramos,Teclado,3,965.85,2897.55,Juticalpa,Regular,Accesorios,0.1
+2025-10-08,Pedro Castillo,Teclado,1,880.79,880.79,Siguatepeque,Gold,Accesorios,0.1
+2025-10-02,Marco Díaz,Teclado,3,77.61,232.83,Comayagua,Silver,Accesorios,0.1
+2025-10-13,Andrea Ramos,Teclado,3,339.95,1019.85,Juticalpa,Regular,Accesorios,0.1
+2025-10-14,Ana López,Teclado,4,1312.38,5249.52,Tegucigalpa,Gold,Accesorios,0.1
+2025-10-23,Luis Mejía,Teclado,4,386.81,1547.24,El Paraíso,Silver,Accesorios,0.1
+2025-10-13,Marco Díaz,Teclado,4,36.59,146.36,Comayagua,Silver,Accesorios,0.1
+2025-10-06,Carla Torres,Teclado,3,847.97,2543.91,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-12,Carla Torres,Teclado,2,141.58,283.16,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-17,Carla Torres,Teclado,5,868.87,4344.35,San Pedro Sula,Gold,Accesorios,0.1
+2025-10-07,Marco Díaz,Teclado,3,1247.15,3741.45,Comayagua,Silver,Accesorios,0.1
+2025-10-14,Luis Mejía,Teclado,3,717.99,2153.97,El Paraíso,Silver,Accesorios,0.1
+2025-10-05,Pedro Castillo,Teclado,3,391.8,1175.4,Siguatepeque,Gold,Accesorios,0.1
+2025-10-22,Carla Torres,Teclado,4,648.07,2592.28,San Pedro Sula,Gold,Accesorios,0.1
